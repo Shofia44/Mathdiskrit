@@ -1,2 +1,2 @@
-# Welcome to your Jupyter Book
+# Welcome to Matematika Diskret
 
